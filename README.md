@@ -10,12 +10,12 @@ To analyze kickstarter data and give visualization on outcomes based on the laun
 ### Analysis of Outcomes Based on Launch Date
 Based on the data, first theater category is selected. Then the outcomes are counted by the created month to trend how many campaigns reached their goal. According to the chart, the plays that are large number of successful plays in April through July time frame with peak in May. There was slight higher number of cancelled plays in January and failed campaigns are evenly distributed. 
 
-![Theater_Outcomes_vs_Launch]( C:\Users\kevin\Desktop\Data\HW1\Resource\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](C:\Users\kevin\Desktop\hw1_sangyoo_RUT012022\Resource\Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Again, the campaigns are trended based on the outcomes versus the goal. There was significant success rate for the goal of the campaign when the goal is less than $15000 and between $35000 to $45000 range. However, on the range between $15000 to $35000 and $45000 above seems to have higher failure percentile.  
 
-![Outcomes_vs_Goals]( C:\Users\kevin\Desktop\Data\HW1\Resource\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](C:\Users\kevin\Desktop\hw1_sangyoo_RUT012022\Resource\Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 From the above trend, one outstanding difference is analysis of outcomes based on goals are missing data for canceled. This is due to there were no plays that were canceled. But from the theater outcomes based on launch data trend, the theater category had 37 canceled outcomes which represents the difference from two data. Also, just looking at the two data, it is hard to draw a conclusion on what the goal of each campaign should be since there are no consistency for the plays.
